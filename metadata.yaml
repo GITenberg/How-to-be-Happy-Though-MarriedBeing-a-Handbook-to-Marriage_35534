@@ -1,0 +1,28 @@
+_repo: How-to-be-Happy-Though-MarriedBeing-a-Handbook-to-Marriage_35534
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35534-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hardy, E. J. (Edward John)
+    alias: Hardy, Edward John
+    birthdate: 1849
+    deathdate: 1920
+    gutenberg_agent_id: '37736'
+    url: http://www.gutenberg.org/2009/agents/37736
+description: ''
+gutenberg_bookshelf: Sociology
+gutenberg_issued: '2011-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35534'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Marriage'
+title: 'How to be Happy Though Married: Being a Handbook to Marriage'
+url: http://www.gutenberg.org/ebooks/35534
